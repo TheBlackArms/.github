@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="screenshots/tba.png" />  
+<img src="tba.png" />  
 
 # The Black Arms is now RETIRED  
 Due to recent events and all the pressure I will no longer be developing this  
