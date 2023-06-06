@@ -4,7 +4,7 @@
 # The Black Arms is now MOVED  
 I have moved to a new name and a new project  
 
-# Come to [Zenith Productions](https://github.com/Zenith-Productions)  
+# Come to [Project Zenith](https://github.com/Project-Zenith)  
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Trigon.Systems&style=for-the-badge&up_color=cyan&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=PaleRa1n.cf&style=for-the-badge&up_color=cyan&up_message=Online&url=https%3A%2F%2Fpalera1n.cf)](https://palera1n.cf)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)  
